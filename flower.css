@@ -47,3 +47,26 @@ nav ul li a {
     font-size: 20px;
 }
 
+/* Banner styles  */
+.banner{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px 120px 150px;
+}
+
+
+.banner-title{
+    font-weight: bold;
+    font-size: 65px;
+
+
+}
+.banner-content{
+    max-width: 570px;
+}
+.banner-image{
+    width: 570px;
+    height: 355px;
+}
+
